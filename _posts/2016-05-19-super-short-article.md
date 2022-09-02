@@ -1,7 +1,12 @@
 ---
 layout: post
-title: "Some articles are just so short that we have to make the footer stick"
+title: "My ePortfolio from ENG 101 / Spring 2022"
 categories: misc
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Hello, my name is Xianglin Huang. Welcome to my ePortfolio. You can find my essays about the Romani from my ENG 101 class. The Romani migration history is fascinating, but the current circumstances of some Romani people are very concerning. You will also find my reflective letter, which describes how my writing has improved during the course.
+
+I am so glad you found my ePortfolio, and I hope you enjoy it.
+
+
+Xianglin
