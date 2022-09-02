@@ -2,6 +2,7 @@
 layout: post
 title: "Essay 1: The Freedom Seekers"
 categories: English Study
+fontsize: 12pt
 ---
 
 <p style="text-align: center;">The Freedom Seekers</p>
