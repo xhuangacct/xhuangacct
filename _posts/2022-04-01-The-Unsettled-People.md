@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Unsettled People
+title: Essay 2: The Unsettled People
 ---
 <p style="text-align: center;">The Unsettled People</p>
 
