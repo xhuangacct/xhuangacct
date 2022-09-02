@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "My ePortfolio from ENG 101 / Spring 2022"
-categories: misc
+categories: English study
 ---
 
 Hello, my name is Xianglin Huang. Welcome to my ePortfolio. You can find my essays about the Romani from my ENG 101 class. The Romani migration history is fascinating, but the current circumstances of some Romani people are very concerning. You will also find my reflective letter, which describes how my writing has improved during the course.
